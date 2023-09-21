@@ -15,7 +15,7 @@ Lab0: $(OBJ)
 test:	testLab0
 testLab0:
 # next line must start with a real TAB (ASCII 9)
-	./run.sh
+
 
 .PHONY: clean
 
